@@ -13,7 +13,7 @@
     <description>总依赖 pom 文件，管理整个项目的依赖版本</description>
 
     <properties>
-        <framework.version>${project.version}</framework.version>
+        <framework.version>1.0.0-SNAPSHOT</framework.version>
 
         <!--    base setting    -->
         <java.version>1.8</java.version>
